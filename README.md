@@ -16,24 +16,23 @@
   - [자바 다운로드](https://www.oracle.com/java/technologies/downloads/)
   - [Nodejs 다운로드](https://nodejs.org/ko/download)
   - [바탕화면에 contest 폴더 생성 및 이동 후 자바 커널 다운로드](https://github.com/SpencerPark/IJava/releases)
-<br>
+
 ## jupyterlab 환경 구성
+  - Powershell prompt 실행(위치: 바탕화면\contest)  
 ```
-#Powershell prompt 실행(위치: 바탕화면\contest)
 pip install jupyterlab
 $Env.Path += ';C:\Program Files\Java\jdk-21\bin'
 $Env.JAVA_HOME='C:\Program Files\Java\jdk-21'
 cd ijava-1.3.0;python install.py
 ```
-<br>
+  - Node.js command prompt 실행(위치: 바탕화면\contest)
+  - Python, Java, javascript 커널 설치 완료 후 주피터랩 실행  
 ```
-#Node.js command prompt 실행(위치: 바탕화면\contest)
+
 node --version
 npm --version
 npm install -g ijavascript
 ijsinstall
-
-#Python, Java, javascript 커널 설치 완료 후 주피터랩 실행
 jupyter lab
 ```
 
