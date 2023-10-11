@@ -11,10 +11,10 @@
   - [프로그래머스 PCCP.E 샘플 문제](https://certi.programmers.co.kr/about/sample)
 
 ## jupyter lab 활용하기(Python, Java, Javascript)
-  - [파이썬 다운로드:v3.11.5 https://www.python.org/downloads](https://www.python.org/downloads)
-  - [자바 다운로드:최신버전 https://www.oracle.com/java/technologies/downloads](https://www.oracle.com/java/technologies/downloads/)
-  - [Nodejs 다운로드: https://nodejs.org/ko/download](https://nodejs.org/ko/download)
-  - [바탕화면에 contest 폴더 생성 및 이동 후 자바 커널 다운로드: https://ijava-1.3.0.zip github.com/SpencerPark/IJava/releases) ](https://github.com/SpencerPark/IJava/releases)
+  - [파이썬 다운로드:v3.11.5 `https://www.python.org/downloads`](https://www.python.org/downloads)
+  - [자바 다운로드:최신버전 `https://www.oracle.com/java/technologies/downloads`](https://www.oracle.com/java/technologies/downloads/)
+  - [Nodejs 다운로드 `https://nodejs.org/ko/download`](https://nodejs.org/ko/download)
+  - [바탕화면에 contest 폴더 생성 및 이동 후 자바 커널 다운로드 `파일명 ijava-1.3.0.zip` github.com/SpencerPark/IJava/releases) ](https://github.com/SpencerPark/IJava/releases)
 
 ## jupyterlab 환경 구성
   - Powershell prompt 실행(위치: 바탕화면\contest)  
